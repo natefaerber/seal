@@ -1,6 +1,6 @@
 # FA notes
 
-This is our Slackbot that monitors for old PRs and posts in Slack. This helps us keep on top of 
+This is our Slackbot that monitors for old PRs and posts in Slack. This helps us keep on top of PRs that are aging. We want PRs to be reviewed quickly! https://futureadvisor.atlassian.net/wiki/spaces/DEV/pages/32636979/Submitting+Pull+Requests
 
 If you want to make any modifications (set up a new Angry Seal monitor) you can look at https://futureadvisor.atlassian.net/browse/PROD-3608 as a reference.
 
